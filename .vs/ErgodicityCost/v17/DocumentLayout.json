@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github Project\\Cpp\\ergodicity_cost_\\ErgodicityCost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54A99D0-3268-46C1-BCFB-2545F01FE299}|ErgodicityCost.vcxproj|D:\\Github Project\\Cpp\\ergodicity_cost_\\ErgodicityCost\\src\\master.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F54A99D0-3268-46C1-BCFB-2545F01FE299}|ErgodicityCost.vcxproj|solutionrelative:src\\master.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "master.cpp",
+              "DocumentMoniker": "D:\\Github Project\\Cpp\\ergodicity_cost_\\ErgodicityCost\\src\\master.cpp",
+              "RelativeDocumentMoniker": "src\\master.cpp",
+              "ToolTip": "D:\\Github Project\\Cpp\\ergodicity_cost_\\ErgodicityCost\\src\\master.cpp",
+              "RelativeToolTip": "src\\master.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T05:12:53.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
