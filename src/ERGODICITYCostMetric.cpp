@@ -26,7 +26,7 @@ double ERGODICITYCostMetric::FitMetric(double* xp1, double* xp2, double** phi_r)
 	// xp1,xp2ÒªÆ½ÒÆ
 	for (int rp1 = 0; rp1 < k_resolution + 1; rp1++) {
 		for (int rp2 = 0; rp2 < k_resolution + 1; rp2++) {
-			GAMMA_r = pow((1 + std::pow(rp1, 2) + std::pow(rp2, 2)), -(n_dimension + 1 / 2));
+			GAMMA_r = pow((1 + std::pow(rp1, 2) + std::pow(rp2, 2)), -(n_dimension + 1) / 2);
 			double sigma_r = FitFourierBasis(rp1, rp2, xp1, xp2);
 			result_epsilon = GAMMA_r * pow(sigma_r - phi_r[rp1][rp2], 2) + result_epsilon;
 		}
