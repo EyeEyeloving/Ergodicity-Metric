@@ -1,5 +1,8 @@
-﻿  FOURIERBasis.cpp
+﻿  ERGODICITYCostMetric.cpp
+  FOURIERBasis.cpp
+  BoostCDefIntegral.cpp
   TRAJDataSet.cpp
+  LoadTXTArray.cpp
   master.cpp
   正在生成代码...
   ErgodicityCost.vcxproj -> D:\Github Project\Cpp\ergodicity_cost_\ErgodicityCost\bin\x64\Debug\ErgodicityCost.exe
